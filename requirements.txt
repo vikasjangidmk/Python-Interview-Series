@@ -1,0 +1,14 @@
+# Requirements for practicing Data Structures and Algorithms in Python
+
+# Core Libraries
+numpy
+matplotlib
+scipy 
+
+# Testing Framework
+pytest
+
+# Optional (for specific use cases)
+networkx # For graph algorithms
+scikit-learn # For machine learning related algorithms
+pandas # For data manipulation and analysis
